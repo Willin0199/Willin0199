@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-  I am MythicalWillbur, and I am just experimenting with learning some CS
+  I am Willin, and I am just experimenting with learning some CS
 
 ### Some things they gave me
 - 🔭 Nothing at the moment
