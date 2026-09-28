@@ -1,10 +1,9 @@
 ## Hi there 👋
 
-  I am MythicalWillbur and I am nobody special so far, just experimenting
+  I am MythicalWillbur, and I am just experimenting with learning some CS
 
 ### Some things they gave me
-- 🔭 I’m currently working on not being trash at USACO
-- 🌱 I’m currently learning SQL
+- 🔭 Nothing at the moment
 - 😄 Pronouns: he/him
 
 <!--
