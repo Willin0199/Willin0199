@@ -2,8 +2,8 @@
 
   I am Willin, and I am just experimenting with learning some CS
 
-### Some things they gave me
-- 🔭 Nothing at the moment
+### General Info
+- 🔭 I'm currently working on learning the intersection between computer science and traditional sciences
 - 😄 Pronouns: he/him
 
 <!--
